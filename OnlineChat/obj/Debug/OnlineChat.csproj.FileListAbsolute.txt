@@ -1,0 +1,14 @@
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe.config
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\bin\Debug\OnlineChat.exe
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\bin\Debug\OnlineChat.pdb
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\MainWindow.g.cs
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\App.g.cs
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\OnlineChat_MarkupCompile.cache
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\OnlineChat_MarkupCompile.lref
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\MainWindow.baml
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\OnlineChat.g.resources
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\OnlineChat.Properties.Resources.resources
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csproj.GenerateResource.Cache
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\OnlineChat.exe
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\OnlineChat.pdb
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Debug\OnlineChat.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\bin\Release\OnlineChat.exe.config
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\bin\Release\OnlineChat.exe
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\bin\Release\OnlineChat.pdb
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Release\MainWindow.g.cs
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Release\App.g.cs
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Release\OnlineChat_MarkupCompile.cache
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Release\OnlineChat_MarkupCompile.lref
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Release\MainWindow.baml
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Release\OnlineChat.g.resources
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Release\OnlineChat.Properties.Resources.resources
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Release\OnlineChat.csproj.GenerateResource.Cache
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Release\OnlineChat.exe
+c:\users\tomahawk\documents\visual studio 2017\Projects\OnlineChat\OnlineChat\obj\Release\OnlineChat.pdb
